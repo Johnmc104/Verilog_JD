@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/simulation/modelsim
+vcounter_decimal_3_bit
+Z1 !s110 1507111524
+!i10b 1
+!s100 gh?GKd_BgjI6fLe0K157O1
+I`dE>U]gE62[;ZHdhXkKhZ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1507101455
+Z4 8C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit.v
+Z5 FC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1507111524.000000
+Z8 !s107 C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit|C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit}
+Z12 tCvgOpt 0
+vcounter_decimal_3_bit_3
+R1
+!i10b 1
+!s100 8[TdzcbL=hI`e`e^:b=gC3
+Ig`^]^e;GF2YK;3SO;95Vm3
+R2
+R0
+R3
+R4
+R5
+L0 109
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vcounter_decimal_3_bit_t
+R1
+!i10b 1
+!s100 olk<T]VkH6fMVbDfjeajc2
+IHKPhN9>gBzUaCJ7^En_<F0
+R2
+R0
+w1507101456
+8C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit_t.v
+FC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit_t.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit_t.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit|C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter_decimal_3_bit/counter_decimal_3_bit_t.v|
+!i113 1
+R10
+R11
+R12

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/simulation/modelsim
+vcounter
+!s110 1507100004
+!i10b 1
+!s100 4^2jcGm38;5]SGT7I<UQ]3
+IOUG[Ng4ZMleDh<]Ufk_Ae3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1507097188
+8C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter.v
+FC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1507100004.000000
+!s107 C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter|C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work {+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter}
+Z5 tCvgOpt 0
+vcounter_t
+!s110 1507100005
+!i10b 1
+!s100 EN55h]zl@EEfW4aT4HlKW1
+Ib1k=7=aKGVLjIP14TRE_?2
+R1
+R0
+w1507090304
+8C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter_t.v
+FC:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter_t.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1507100005.000000
+!s107 C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter_t.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter|C:/Users/sgmc1/OneDrive/Electrical Engineering/Quartus/Project/counter/counter_t.v|
+!i113 1
+R3
+R4
+R5
