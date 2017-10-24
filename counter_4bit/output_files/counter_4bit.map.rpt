@@ -1,5 +1,5 @@
 Analysis & Synthesis report for counter_4bit
-Sun Oct 22 19:02:05 2017
+Sun Oct 22 19:19:36 2017
 Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
 
 
@@ -43,7 +43,7 @@ agreement for further details.
 +-------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                  ;
 +---------------------------------+---------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Sun Oct 22 19:02:05 2017       ;
+; Analysis & Synthesis Status     ; Successful - Sun Oct 22 19:19:36 2017       ;
 ; Quartus Prime Version           ; 17.0.0 Build 595 04/25/2017 SJ Lite Edition ;
 ; Revision Name                   ; counter_4bit                                ;
 ; Top-level Entity Name           ; counter_4bit                                ;
@@ -253,7 +253,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:00     ;
+; Top            ; 00:00:01     ;
 +----------------+--------------+
 
 
@@ -263,12 +263,14 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
-    Info: Processing started: Sun Oct 22 19:01:46 2017
+    Info: Processing started: Sun Oct 22 19:19:14 2017
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off counter_4bit -c counter_4bit
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file counter_4bit.v
     Info (12023): Found entity 1: counter_4bit File: C:/Users/sgmc1/Documents/GitHub/Verilog_JD/counter_4bit/counter_4bit.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file counter_4bit_t.v
+    Info (12023): Found entity 1: counter_4bit_t File: C:/Users/sgmc1/Documents/GitHub/Verilog_JD/counter_4bit/counter_4bit_t.v Line: 1
 Info (12127): Elaborating entity "counter_4bit" for the top level hierarchy
 Warning (10230): Verilog HDL assignment warning at counter_4bit.v(11): truncated value with size 32 to match size of target (4) File: C:/Users/sgmc1/Documents/GitHub/Verilog_JD/counter_4bit/counter_4bit.v Line: 11
 Info (286030): Timing-Driven Synthesis is running
@@ -279,9 +281,9 @@ Info (21057): Implemented 10 device resources after synthesis - the final resour
     Info (21059): Implemented 4 output pins
     Info (21061): Implemented 4 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 2 warnings
-    Info: Peak virtual memory: 712 megabytes
-    Info: Processing ended: Sun Oct 22 19:02:05 2017
-    Info: Elapsed time: 00:00:19
-    Info: Total CPU time (on all processors): 00:00:41
+    Info: Peak virtual memory: 704 megabytes
+    Info: Processing ended: Sun Oct 22 19:19:36 2017
+    Info: Elapsed time: 00:00:22
+    Info: Total CPU time (on all processors): 00:00:43
 
 
