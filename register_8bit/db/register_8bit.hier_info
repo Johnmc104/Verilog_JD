@@ -1,0 +1,43 @@
+|register_8bit
+clr => DOUT[0]~reg0.ALOAD
+clr => DOUT[1]~reg0.ALOAD
+clr => DOUT[2]~reg0.ALOAD
+clr => DOUT[3]~reg0.ALOAD
+clr => DOUT[4]~reg0.ALOAD
+clr => DOUT[5]~reg0.ALOAD
+clr => DOUT[6]~reg0.ALOAD
+clr => DOUT[7]~reg0.ALOAD
+clk => DOUT[0]~reg0.CLK
+clk => DOUT[1]~reg0.CLK
+clk => DOUT[2]~reg0.CLK
+clk => DOUT[3]~reg0.CLK
+clk => DOUT[4]~reg0.CLK
+clk => DOUT[5]~reg0.CLK
+clk => DOUT[6]~reg0.CLK
+clk => DOUT[7]~reg0.CLK
+DOUT[0] <= DOUT[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[1] <= DOUT[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[2] <= DOUT[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[3] <= DOUT[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[4] <= DOUT[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[5] <= DOUT[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[6] <= DOUT[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+DOUT[7] <= DOUT[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+D[0] => DOUT[0]~reg0.DATAIN
+D[0] => DOUT[0]~reg0.ADATA
+D[1] => DOUT[1]~reg0.DATAIN
+D[1] => DOUT[1]~reg0.ADATA
+D[2] => DOUT[2]~reg0.DATAIN
+D[2] => DOUT[2]~reg0.ADATA
+D[3] => DOUT[3]~reg0.DATAIN
+D[3] => DOUT[3]~reg0.ADATA
+D[4] => DOUT[4]~reg0.DATAIN
+D[4] => DOUT[4]~reg0.ADATA
+D[5] => DOUT[5]~reg0.DATAIN
+D[5] => DOUT[5]~reg0.ADATA
+D[6] => DOUT[6]~reg0.DATAIN
+D[6] => DOUT[6]~reg0.ADATA
+D[7] => DOUT[7]~reg0.DATAIN
+D[7] => DOUT[7]~reg0.ADATA
+
+

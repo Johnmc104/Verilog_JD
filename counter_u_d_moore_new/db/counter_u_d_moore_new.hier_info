@@ -1,0 +1,14 @@
+|counter_u_d_moore_new
+count[0] <= count.DB_MAX_OUTPUT_PORT_TYPE
+count[1] <= count.DB_MAX_OUTPUT_PORT_TYPE
+enable[0] => Equal0.IN0
+enable[0] => Equal1.IN1
+enable[1] => Equal0.IN1
+enable[1] => Equal1.IN0
+reset => state.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+clk => state~1.DATAIN
+
+

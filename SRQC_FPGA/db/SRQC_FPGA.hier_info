@@ -1,0 +1,19 @@
+|SRQC_FPGA
+clk => ~NO_FANOUT~
+rst_n => ~NO_FANOUT~
+mcu_cs_n => ~NO_FANOUT~
+mcu_wr_n => ~NO_FANOUT~
+mcu_addr[0] => ~NO_FANOUT~
+mcu_addr[1] => ~NO_FANOUT~
+mcu_addr[2] => ~NO_FANOUT~
+mcu_addr[3] => ~NO_FANOUT~
+mcu_db[0] => ~NO_FANOUT~
+mcu_db[1] => ~NO_FANOUT~
+mcu_db[2] => ~NO_FANOUT~
+mcu_db[3] => ~NO_FANOUT~
+mcu_db[4] => ~NO_FANOUT~
+mcu_db[5] => ~NO_FANOUT~
+mcu_db[6] => ~NO_FANOUT~
+mcu_db[7] => ~NO_FANOUT~
+
+

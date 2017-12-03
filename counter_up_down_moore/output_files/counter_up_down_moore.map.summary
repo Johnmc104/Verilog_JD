@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Nov 21 18:37:09 2017
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : counter_up_down_moore
+Top-level Entity Name : counter_up_down_moore
+Family : Cyclone IV E
+Total logic elements : 12
+    Total combinational functions : 12
+    Dedicated logic registers : 4
+Total registers : 4
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

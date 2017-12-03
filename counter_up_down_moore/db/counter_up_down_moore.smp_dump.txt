@@ -1,0 +1,7 @@
+
+State Machine - |counter_up_down_moore|state
+Name state.s_3 state.s_2 state.s_1 state.s_0 
+state.s_0 0 0 0 0 
+state.s_1 0 0 1 1 
+state.s_2 0 1 0 1 
+state.s_3 1 0 0 1 

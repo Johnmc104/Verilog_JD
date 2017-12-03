@@ -1,0 +1,7 @@
+
+State Machine - |SRQC_FPGA|cstate
+Name cstate.IDLE cstate.WR_S1 cstate.WR_S2 cstate.RD_S2 
+cstate.IDLE 0 0 0 0 
+cstate.WR_S2 1 0 1 0 
+cstate.RD_S2 1 0 0 1 
+cstate.WR_S1 1 1 0 0 
