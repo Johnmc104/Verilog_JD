@@ -1,6 +1,0 @@
-|selector_3_state_gate
-out <= mybuf.DB_MAX_OUTPUT_PORT_TYPE
-in => mybuf.DATAIN
-enable => mybuf.OE
-
-
